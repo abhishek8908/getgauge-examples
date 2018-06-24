@@ -1,0 +1,9 @@
+{
+	"Args": [
+		"run",
+		"--machine-readable",
+		"--hide-suggestion",
+		"--simple-console"
+	],
+	"FailedItems": []
+}

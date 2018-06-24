@@ -1,0 +1,10 @@
+{
+	"Command": [
+		"C:\\Program Files\\gauge\\bin\\gauge.exe",
+		"run",
+		"--machine-readable",
+		"--hide-suggestion",
+		"--simple-console",
+		"D:/git-projects/getgauge-examples/specs/example5.spec"
+	]
+}
