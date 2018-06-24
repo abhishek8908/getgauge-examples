@@ -2,7 +2,7 @@
 Gauge vs Cucumber
 
 
-### Comparison Gauge vs Cucumber
+### Gauge vs Cucumber
 
 | GAUGE | CUCUMBER |Examples in Guage(Refer project)|
 | ------ | ------ |------ |
