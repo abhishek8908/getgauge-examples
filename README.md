@@ -10,7 +10,7 @@ Gauge vs Cucumber
 | Has the ability to combine  re-usable logical groups of steps into a single unit scenarios known as concepts | No such built-in feature available.|Example1 (step *login to the url)|
 |Both Start up (or Background steps) steps and tear down step available at specification/feature level)|Only Background steps are available at feature level.|Example3|
 | Data driven testing can be achieved by both inline tables and csv files. | It only provides data driven test though inline tables|Example3|
-| Parallel execution is very simple without extra plugin  | Requires extra plugins to achive that.|gauge run --parallel specs|
+| Parallel execution of scenarios is very simple without extra plugin  | Requires extra plugins to achive that.|gauge run --parallel specs|
 | In built facility to store run time context data.| No inbuilt object to store run time data  |TestDataStore (Tests)|
 |In build Facility to read data from external file.|No  built-in Facility to read data from external file. |Example4|
 |In build Facility to start capturing screen shots.|No built-in Facility to start capturing screen shots.|See reports|
