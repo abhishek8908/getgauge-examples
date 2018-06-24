@@ -6,7 +6,7 @@ Gauge vs Cucumber
 
 | GAUGE | CUCUMBER |Examples in Guage(Refer project)|
 | ------ | ------ |------ |
-| Run test suites on multiple env with ease. | No such built-in feature availbale.|> gauge run --env int specs|
+| Run test suites on multiple environment with ease. | No such built-in feature availbale.|> gauge run --env int specs|
 | Has the ability to combine  re-usable logical groups of steps into a single unit scenarios known as concepts | No such built-in feature available.|Example1 (step *login to the url)|
 |Both Start up (or Background steps) steps and tear down step available at specification/feature level)|Only Background steps are available at feature level.|Example3|
 | Data driven testing can be achieved by both inline tables and csv files. | It only provides data driven test though inline tables|Example3|
