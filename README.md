@@ -1,6 +1,12 @@
 # getgauge-examples
 Gauge vs Cucumber
 
+# Install Gauge (Prerequisite)
+
+Please refer documentation to install Gauge
+https://docs.gauge.org/latest/installation.html
+
+
 
 ### Gauge vs Cucumber
 
